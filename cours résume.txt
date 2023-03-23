@@ -1,4 +1,95 @@
+cours résume 21/03 mardi sur (le github et l'algorithmique)
+ls (lister le dossier) 
+clear (efface d'historique de terminal) 
+
+…or create a new repository on the command line 
+echo "# webtest" >> README.md 
+git init 
+git add README.md    
+git commit -m "first commit"   
+git branch -M main
+git remote add origin https://github.com/LI8538/webtest.git  
+git push -u origin main
+
+
+…or push an existing repository from the command line 
+git remote add origin https://github.com/LI8538/webtest.git 
+git branch -M main 
+git push -u origin main 
+
+L'Algorithmique 
+je fait un sandwich 
+-je prend le pain 
+-je met la sauce mayo kechup sur un pain 
+-je met de la salde ,concombre et tomate 
+-mettre de stack grillée 
+-je mis l'autre pain 
+-fini le sandwish 
+
+des conditions et variables exemple comme la bouteille est le contenaire et l'eau est le variable, if / else pour triller le varibale dans cette exemple ça peux être de l'eau , du jus , ou autre , et excute l'action pour obtenir un résultat 
+--------------------------------type de valeur ---------------------------------------- 
+varleur peux être type scaleur ou type composée : 
+style scaleur : le boolean , nombre positif et négatif, lettre utilise '' 
+style composée : les tableaux 
+------------------------------------les objets-------------------------------------- 
+attribue et les actions
+echo uniquement pour le stype scalée pour afficher une variable 
+
+
 dans le variable y'a deux type :
 les types scalaires
 1.le caractère ("chaine de caractère,phrases"),('lettre')
 2.le booléen : true, false 
+
+ $nombre1 = 3;
+    $nombre2 = 5;
+
+    // Addition
+    echo $nombre1 + $nombre2 . "\n";
+    
+    
+    // Soustraction
+    echo $nombre1 - $nombre2 . "\n";
+    
+    
+    // Multiplication
+    echo $nombre1 * $nombre2 . "\n";
+    
+    
+    // Division
+    echo $nombre1 / $nombre2 . "\n";
+    
+    
+    // Modulo
+    echo $nombre1 % $nombre2 . "\n";
+    
+
+    // Exponentiation
+    echo $nombre1 ** $nombre2 . "\n";
+
+
+    // L'incrémentation
+    // $nombre1++;
+    // echo $nombre1 . "\n";
+    
+    
+    // $nombre1 += 1;
+    // $nombre1 += 10;
+    // echo $nombre1 . "\n";
+
+
+    // $nombre1 = $nombre1 + 12;
+    // echo $nombre1;
+
+
+    // Décrémentation
+    // $nombre2--;
+    // echo $nombre2;
+
+    // $nombre2 -= 1;
+    // $nombre2 -= 10;
+    // echo $nombre2 . "\n";
+
+
+    // $nombre2 = $nombre2 + 12;
+    // echo $nombre2;
