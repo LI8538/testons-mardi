@@ -1,0 +1,4 @@
+dans le variable y'a deux type :
+les types scalaires
+1.le caractère ("chaine de caractère,phrases"),('lettre')
+2.le booléen : true, false 
